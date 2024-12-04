@@ -21,7 +21,7 @@
 <div
 	class="container relative hidden flex-1 flex-col items-start justify-center bg-background p-0 md:grid lg:max-w-none lg:px-0"
 >
-	<div class="h-full lg:p-8">
+	<div class="h-full">
 		<div class="mx-auto flex h-full w-full flex-col justify-between space-y-6 sm:w-[350px]">
 			<div class="flex flex-col space-y-2 text-center">
 				<h1 class="text-2xl font-semibold tracking-tight">Login</h1>
